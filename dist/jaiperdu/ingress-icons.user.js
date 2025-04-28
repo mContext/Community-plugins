@@ -1,13 +1,14 @@
+
 // ==UserScript==
 // @author         jaiperdu
-// @name           Ingress Icons
+// @name           IITC-Plugin: Ingress Icons - jsdelivr
 // @category       Appearance
 // @version        0.1.2
 // @description    Bring ameba64/ingress-items icons into IITC
 // @id             ingress-icons@jaiperdu
 // @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
-// @updateURL      https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/ingress-icons.meta.js
-// @downloadURL    https://raw.githubusercontent.com/IITC-CE/Community-plugins/master/dist/jaiperdu/ingress-icons.user.js
+// @updateURL      https://raw.githubusercontent.com/mContext/Community-plugins/master/dist/jaiperdu/ingress-icons.meta.js
+// @downloadURL    https://raw.githubusercontent.com/mContext/Community-plugins/master/dist/jaiperdu/ingress-icons.user.js
 // @preview        https://i.ibb.co/nsprM3s/IITC-Ingress-Icons-by-jaiperdu-desktop.jpg
 // @match          https://intel.ingress.com/*
 // @grant          none
@@ -127,75 +128,75 @@ function setup() {
 }\
 \
 .mods span, .mods .mod_free_slot {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_mod_free_slot.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_mod_free_slot.svg");\
 }\
 \
 .mods .force_amp.rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_force_amp_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_force_amp_rare.svg");\
 }\
 \
 .mods .heat_sink.common {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_heat_sink_common.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_heat_sink_common.svg");\
 }\
 \
 .mods .heat_sink.rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_heat_sink_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_heat_sink_rare.svg");\
 }\
 \
 .mods .heat_sink.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_heat_sink_very_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_heat_sink_very_rare.svg");\
 }\
 \
 .mods .ito_en_transmuter_plus.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_ito_en_transmuter_+_very_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_ito_en_transmuter_+_very_rare.svg");\
 }\
 \
 .mods .ito_en_transmuter_minus.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_ito_en_transmuter_-_very_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_ito_en_transmuter_-_very_rare.svg");\
 }\
 \
 .mods .link_amp.rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_link_amp_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_link_amp_rare.svg");\
 }\
 \
 .mods .link_amp.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_link_amp_very_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_link_amp_very_rare.svg");\
 }\
 \
 .mods .multi_hack.common {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_multi_hack_common.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_multi_hack_common.svg");\
 }\
 \
 .mods .multi_hack.rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_multi_hack_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_multi_hack_rare.svg");\
 }\
 \
 .mods .multi_hack.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_multi_hack_very_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_multi_hack_very_rare.svg");\
 }\
 \
 .mods .portal_shield.common {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_portal_shield_common.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_portal_shield_common.svg");\
 }\
 \
 .mods .portal_shield.rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_portal_shield_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_portal_shield_rare.svg");\
 }\
 \
 .mods .portal_shield.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_portal_shield_very_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_portal_shield_very_rare.svg");\
 }\
 \
 .mods .aegis_shield.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_portal_shield_very_rare_aegis.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_portal_shield_very_rare_aegis.svg");\
 }\
 \
 .mods .softbank_ultra_link.very_rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_softbank_ultra_link_very_rare.svg");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_softbank_ultra_link_very_rare.svg");\
 }\
 \
 .mods .turret.rare {\
-	background-image: url("https://raw.githubusercontent.com/ameba64/ingress-items/main/boxed/boxed_turret_rare.svg ");\
+	background-image: url("https://cdn.jsdelivr.net/gh/ameba64/ingress-items@main/boxed/boxed_turret_rare.svg ");\
 }\
 \
 #updatestatus .mods div {\
